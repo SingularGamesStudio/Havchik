@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\main.cs">
+    <Files>
+      <File FileName="Assets\scripts\city.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\main.cs" Line="1819" Column="29" />
+      <File FileName="Assets\scripts\uniter.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dmgger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\learnpods.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\loadgif.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
