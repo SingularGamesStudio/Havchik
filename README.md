@@ -1,5 +1,5 @@
 # Havchik
-The HAVCHIK PLANET game
 
+A open-world rpg game
 
-This thing is outdated, i will commit a new version soon
+https://play.google.com/store/apps/details?id=com.SingularGamesstd.HavchikPlanet&hl=ru
